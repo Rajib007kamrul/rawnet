@@ -1,0 +1,19 @@
+{
+    "name": "wedevs/robofinal",
+    "authors": [
+        {
+            "name": "Rokibul Islam",
+            "email": "rrcucse.11@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+	    "automattic/vipwpcs": "dev-master",
+	    "dealerdirect/phpcodesniffer-composer-installer": "dev-master"
+	},
+	"scripts": {
+    "phpcs": [
+      "phpcs -p -s"
+    ]
+  }
+}
