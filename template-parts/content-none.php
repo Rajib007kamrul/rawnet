@@ -1,0 +1,1 @@
+<h1 class="page-title"> <?php esc_html_e( 'Nothing Found', 'visgo' ); ?></h1>
